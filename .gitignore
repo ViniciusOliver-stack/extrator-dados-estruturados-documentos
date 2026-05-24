@@ -1,0 +1,24 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Variáveis de ambiente — NUNCA versionar
+.env
+
+# Arquivos sensíveis (dados bancários reais)
+*.ofx
+
+# Saída gerada pela aplicação
+insight_financeiro.json
+
+# IDEs
+.vscode/
+.idea/
+
+# pytest
+.pytest_cache/

@@ -1,0 +1,6 @@
+ofxparse
+pytest
+pytest-mock
+google-genai
+pydantic
+python-dotenv
